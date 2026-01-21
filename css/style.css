@@ -1888,6 +1888,10 @@ textarea.form-control {
   100% { background-image: url("5.jpg"); }
 }
 
+.error-404 h1 {
+  margin-top: 20px; /* top-margin -> margin-top */
+}
+
 /* Button */
 .error-404 .btn {
   display: inline-block;
@@ -1925,3 +1929,4 @@ textarea.form-control {
   transform: translateY(-2px);
   box-shadow: 0 12px 30px rgba(106, 90, 249, 0.45);
 }
+
